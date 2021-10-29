@@ -1,4 +1,4 @@
-# Todo Web App
+# Todo Web App (React)
 
 A todo website built with react and redux to help you track your daily tasks using the pomodoro technique.
 
